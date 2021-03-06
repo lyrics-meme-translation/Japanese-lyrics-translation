@@ -4,6 +4,11 @@
 在這裡 我們將會把我們團隊喜歡的日文歌詞翻譯成中文<br>
 與大家分享日文歌詞中的意境 以及其表現的細緻
 
+### 歌曲
+```markdown
+[single mother](https://lyrics-meme-translation.github.io/lyrics/)
+ˋˋˋ
+
 ### single mother 翻譯
 
 single mother 是一首描述小孩被單親媽媽扶養成人之後<br>
@@ -80,14 +85,4 @@ single mother 是一首描述小孩被單親媽媽扶養成人之後<br>
 「思い描いた家族じゃなくっても　ママが私のママで良かった」
 「即便並非我腦中所描繪出來的家庭　媽媽是我的媽媽真的是太好了」
 ```
-[歌曲連結](https://www.youtube.com/watch?v=TG97A4H8QOo).
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lyrics-meme-translation/lyrics/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[歌曲連結_single mother (Youtube)](https://www.youtube.com/watch?v=TG97A4H8QOo)
