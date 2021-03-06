@@ -6,3 +6,4 @@
 
 ### 歌曲
 [single mother](https://lyrics-meme-translation.github.io/single-mother/)
+[はじまりのまえ、おしまいのあと](https://lyrics-meme-translation.github.io/-/)
