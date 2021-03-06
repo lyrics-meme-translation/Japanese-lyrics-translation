@@ -6,14 +6,14 @@
 
 ### single mother 翻譯
 
-single mother 是一首描述小孩被單親媽媽扶養成人之後 
-回首感謝母親的愛與付出的一首歌 
+single mother 是一首描述小孩被單親媽媽扶養成人之後\ 
+回首感謝母親的愛與付出的一首歌\ 
 感受與表現細膩
 
-曲:KOKIA
-詞:KOKIA
-歌手:KOKIA
-中文翻譯：ユウキ
+曲:KOKIA\
+詞:KOKIA\
+歌手:KOKIA\
+中文翻譯：ユウキ\
 
 ```markdown
 歲を重ねる度に思う　私を育てた母のこと
