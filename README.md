@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## 日本語の歌詞翻訳の庭へ　ようこそ
+## 歡迎來到日語歌詞的翻譯庭院
 
 You can use the [editor on GitHub](https://github.com/lyrics-meme-translation/lyrics/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
