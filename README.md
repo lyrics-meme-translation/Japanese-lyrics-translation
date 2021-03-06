@@ -6,4 +6,4 @@
 
 ### 歌曲
 [single mother](https://lyrics-meme-translation.github.io/single-mother/)<br>
-[はじまりのまえ、おしまいのあと](https://lyrics-meme-translation.github.io/-/)
+[はじまりのまえ、おしまいのあと](https://lyrics-meme-translation.github.io/Hajimarinomae-Oshimainoato/)
