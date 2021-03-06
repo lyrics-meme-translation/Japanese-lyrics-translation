@@ -5,8 +5,11 @@
 與大家分享日文歌詞中的意境 以及其表現的細緻
 
 ### 歌曲
+
 ```markdown
+
 [single mother](https://lyrics-meme-translation.github.io/lyrics/)
+
 ˋˋˋ
 
 ### single mother 翻譯
