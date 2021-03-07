@@ -6,7 +6,7 @@
   
 就如將日文的櫻花嫁接到中文的樹上一般<br>
 目的是希望能讓大家用中文欣賞日文歌詞的美<br>
-因而取名為「桜の接ぎ木」(接木之櫻)
+因而取名為「桜の接ぎ木」（接木之櫻）
 
 ### 歌曲
 [single mother](https://lyrics-meme-translation.github.io/single-mother/)<br>
