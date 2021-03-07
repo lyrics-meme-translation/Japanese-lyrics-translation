@@ -1,4 +1,9 @@
 <div style="background-image: url('cc95MzO.jpg');">
+  <style>
+div {
+  background-image: url('cc95MzO.jpg');
+}
+</style>
   
 ## 日本語の歌詞翻訳の庭へ　ようこそ
 ## 歡迎來到日文歌詞的翻譯庭院
