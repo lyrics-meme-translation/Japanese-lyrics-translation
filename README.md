@@ -1,4 +1,3 @@
-title-heading: false
 ## 桜の接ぎ木
 ## 接木之櫻
 
